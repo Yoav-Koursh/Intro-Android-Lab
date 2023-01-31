@@ -26,8 +26,8 @@ In this lab, we'll be creating a sign in page using TextView, EditText & Button!
       1. Connect the views from the `XML file` to the `Java file`.
       2. Set an `onclick listener` for the submit button:
         - When the Button is clicked:
-          1. Set the text of the EditTexts to be empty again
-          2. using Toast, a message to the user should say "form submitted".
+          1. using Toast, a message to the user should say `email of user` + "form submitted".
+          2. Set the text of the EditTexts to be empty again
 
 
 ##### Call an Instructor/TA to check your completed tasks
