@@ -20,7 +20,7 @@ In this lab, we'll be creating a sign in page using TextView, EditText & Button!
       - A `TextView` that says SignIn.
       - Two `EditTexts` for email & password, **hint:** Don't forget the difference between hint and text.
       - A `Button` that says submit.
-      ** Don't forget to add ids **
+      - ** Don't forget to add ids **
 
 3. In your Java file:
   1. Connect the views from the `XML file` to the `Java file`.
